@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - shields.io 사용 틀 :<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
   한글 부분을 바꾸면 됨
 -->
-<a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-27D74E?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
+
+<a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-23C346?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
+<a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
 <a href="https://funky-reaper-20b.notion.site/Career-c1841963d6684eb698e621dddcbaf9f4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=FFF"/></a>
