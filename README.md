@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
 <a href="https://funky-reaper-20b.notion.site/Career-c1841963d6684eb698e621dddcbaf9f4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-1d1d1d.svg?style=for-the-badge&logo=Notion&logoColor=FFF"/></a>
 <a href="mailto:mmorpg3636@naver.com" target="_blank"><img src="https://img.shields.io/badge/mmorpg3636@naver.com-238AC3?style=for-the-badge&logo=gmail&logoColor=FFF"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhuiseung&show_icons=true&theme=radical)
