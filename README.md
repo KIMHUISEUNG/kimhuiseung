@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   한글 부분을 바꾸면 됨
 -->
 
-<img src="https://github.com/KIMHUISEUNG/kimhuiseung/assets/83748337/6f3a39f9-26ff-4564-a198-bc164fc11eaa" />
+<img src="https://github.com/KIMHUISEUNG/kimhuiseung/assets/83748337/6f3a39f9-26ff-4564-a198-bc164fc11eaa" width="50" height="50"/>
 
 
 
