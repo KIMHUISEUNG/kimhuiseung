@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **KIMHUISEUNG/kimhuiseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,8 +20,10 @@ Here are some ideas to get you started:
 -bookmark 만들기 참고 https://github.com/loosie/github-readme-tistory-card
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={insert_blogName}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
 
-
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <p>안녕하세요 저는 Web FE 개발자 입니다. React를 사용해 웹 개발하고 있습니다.</p>
 <p>때로는 Javascript의 숙련도를 높여 좀더 모던한 코드를 작성할 수 있도록 노력하는 중입니다.</p>
 <p>REST 아키텍처를 구현하는 웹 개발자가 되어 안정성 있는 코드를 작성하려합니다.</p>
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-5FB3E2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
 </div>
 
-#### 능숙하지 않음 <Once I've used/>
+#### 능숙하지 않음 < Once I've used />
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Java-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Python-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
@@ -73,7 +74,7 @@ Here are some ideas to get you started:
 Figma adobe-PP Maya MS-office-Tools
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Figma-1d1d1d?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-  <img src="https://img.shields.io/badge/AdobePP-A719BE?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/adobe premiere pro-A719BE?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Maya-0FE1D5?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/MS Office Tools-35B6FF?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
 </div>
