@@ -18,26 +18,39 @@ Here are some ideas to get you started:
 - 이미지 추가하기 사이즈 바꿈 포함
 <img src="https://github.com/KIMHUISEUNG/kimhuiseung/assets/83748337/6f3a39f9-26ff-4564-a198-bc164fc11eaa" width="50" height="50"/>
 
+-bookmark 만들기
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://google.com)
+
 -->
 <p>안녕하세요 저는 Web FE 개발자 입니다. React를 사용해 웹 개발하고 있습니다.</p>
 <p>때로는 Javascript의 숙련도를 높여 좀더 모던한 코드를 작성할 수 있도록 노력하는 중입니다.</p>
 <p>REST 아키텍처를 구현하는 웹 개발자가 되어 안정성 있는 코드를 작성하려합니다.</p>
 <br>
-<p>동전 노래방에 가서 노래부르는 걸 좋아하고, 영화 와 드라마를 즐겨봅니다.🎶🍿</p>
-<p>즐거움을 만드는 개발자가 되고 싶습니다.✨</p>
-
-### ☕️ Skills
+<p>동전 노래방에 가서 노래부르는 걸 좋아하고, 영화 와 드라마를 즐겨봅니다. 🎶🍿</p>
+<p>즐거움을 만드는 개발자가 되고 싶습니다. ✨</p>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://google.com)
+### Skills
 #### 🧩 Platforms & Languages 🧩
+#### 능숙함
+javascript react html css styled-componet redus linux
+
+#### 능숙하지 않음
+java python bootstrap andoid-studio ammazon aws
+
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Javascript-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
+<a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/React-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
+<a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/React-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/React-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 
 
 #### 🛠 Tools 🛠
 
-#### 🎨 SNS & Portfolio 🎨
+#### 🎨 Development Log 🎨
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-23C346?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 <a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
 <a href="https://funky-reaper-20b.notion.site/Career-c1841963d6684eb698e621dddcbaf9f4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-1d1d1d.svg?style=for-the-badge&logo=Notion&logoColor=FFF"/></a>
+#### ☕️ Contact ☕️
 <a href="mailto:mmorpg3636@naver.com" target="_blank"><img src="https://img.shields.io/badge/mmorpg3636@naver.com-238AC3?style=for-the-badge&logo=gmail&logoColor=FFF"/></a>
+<a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhuiseung&show_icons=true&theme=moltack)
