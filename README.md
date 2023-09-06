@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
 <link href="https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css" rel="stylesheet" type="text/css" />
 
+@font-face {
+  font-family: <a-remote-font-name>;
+  src: <source> [,<source>]*;
+  [font-weight: <weight>];
+  [font-style: <style>];
+}
+
 
 
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-23C346?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
@@ -33,7 +40,7 @@ Here are some ideas to get you started:
 <p>즐거움을 만드는 개발자가 되고 싶습니다.✨</p>
 
 ### ☕️ Skills
-#### 🧩 Platforms & Languages **🧩**
+#### 🧩 Platforms & Languages 🧩
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Javascript-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/React-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 
