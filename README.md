@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 이미지 추가하기 사이즈 바꿈 포함
 <img src="https://github.com/KIMHUISEUNG/kimhuiseung/assets/83748337/6f3a39f9-26ff-4564-a198-bc164fc11eaa" width="50" height="50"/>
 
--bookmark 만들기
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://google.com)
+-bookmark 만들기 참고 https://github.com/loosie/github-readme-tistory-card
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=codinghatso&theme=default)](https://google.com)
 
 -->
 <p>안녕하세요 저는 Web FE 개발자 입니다. React를 사용해 웹 개발하고 있습니다.</p>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p>동전 노래방에 가서 노래부르는 걸 좋아하고, 영화 와 드라마를 즐겨봅니다. 🎶🍿</p>
 <p>즐거움을 만드는 개발자가 되고 싶습니다. ✨</p>
 
-[![Book Card](https://codinghatso.tistory.com/)](https://google.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=codinghatso&theme=default)](https://google.com)
 
 ### Skills
 #### 🧩 Platforms & Languages 🧩
