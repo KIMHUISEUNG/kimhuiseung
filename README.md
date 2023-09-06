@@ -1,7 +1,4 @@
 ### Hi there 👋
-<link rel="preconnect" href="https://cdn.jsdelivr.net" />
-<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
-<link href="https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css" rel="stylesheet" type="text/css" />
 <!--
 **KIMHUISEUNG/kimhuiseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +15,9 @@ Here are some ideas to get you started:
 - shields.io 사용 틀 :<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
   한글 부분을 바꾸면 됨
 -->
+<link rel="preconnect" href="https://cdn.jsdelivr.net" />
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+<link href="https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css" rel="stylesheet" type="text/css" />
 
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-23C346?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 <a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
