@@ -18,11 +18,21 @@ Here are some ideas to get you started:
 <link rel="preconnect" href="https://cdn.jsdelivr.net" />
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
 <link href="https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css" rel="stylesheet" type="text/css" />
-  @import url('https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css');
 
-  .tossface {
-    font-family: Tossface;
-  }
+Heading Identifiers:
+### Red text title {#identifier .red}
+
+Fenced Code Attributes:
+{.red .numberLines startFrom="1"}
+
+Inline Code Attributes:
+`red text`{.red}
+
+Bracketed Spans:
+[This is *some red text*]{.red}
+
+Link Attributes:
+![alt text](the.jpg){.center}
 
 
 
