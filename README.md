@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 <br>
 <p>동전 노래방에 가서 노래부르는 걸 좋아하고, 영화 와 드라마를 즐겨봅니다. 🎶🍿</p>
 <p>즐거움을 만드는 개발자가 되고 싶습니다. ✨</p>
+
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://google.com)
+
 ### Skills
 #### 🧩 Platforms & Languages 🧩
 #### 능숙함
