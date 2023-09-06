@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hatso%20GitHub%20render&animation=fadeIn&fontSize=90)
 
 <p>안녕하세요 저는 Web FE 개발자 입니다. React를 사용해 웹 개발하고 있습니다.</p>
 <p>때로는 Javascript의 숙련도를 높여 좀더 모던한 코드를 작성할 수 있도록 노력하는 중입니다.</p>
