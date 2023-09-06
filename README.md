@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/KIMHUISEUNG/kimhuiseung/assets/83748337/45ba342b-2ab4-46fa-94fe-0a7201002226)### Hi there 👋
 <!--
 **KIMHUISEUNG/kimhuiseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   [font-weight: <weight>];
   [font-style: <style>];
 }
+🤒![image](https://github.com/KIMHUISEUNG/kimhuiseung/assets/83748337/6f3a39f9-26ff-4564-a198-bc164fc11eaa)
 
 
 
