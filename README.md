@@ -33,29 +33,31 @@ Here are some ideas to get you started:
 ### Skills
 #### 🧩 Platforms & Languages 🧩
 #### 능숙함
-<img src="https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/React-238AC3?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/Linux-FF2828?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/HTML-FF6D1B?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/CSS-0F6595?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/TypeScript-5FB3E2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-
+<div style="display:flex; flex-direction:row;">
+  <img src="https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/React-238AC3?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Linux-FF2828?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/HTML-FF6D1B?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/CSS-0F6595?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/TypeScript-5FB3E2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+</div>
 #### 능숙하지 않음 <Once I've used/>
-<img src="https://img.shields.io/badge/Java-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/Python-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/Bootstrap-BE37D4?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/AndoidStudio-00D32F?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/AmmazonAWS-09082E?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/K8S-030093?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/Docker-0300dd?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/CentOS-FF1B1B?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/MySQL-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/Jenkins-9F7DFF?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/Node.js-009220?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
-
-
+<div style="display:flex; flex-direction:row;">
+  <img src="https://img.shields.io/badge/Java-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Python-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Bootstrap-BE37D4?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/AndoidStudio-00D32F?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/AmmazonAWS-09082E?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/K8S-030093?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Docker-0300dd?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/CentOS-FF1B1B?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/MySQL-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Jenkins-9F7DFF?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Node.js-009220?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+</div>
 
 #### 🛠 Tools 🛠
+<div style="display:flex; flex-direction:row;"></div>
 
 #### ✏️ Development Log ✏️
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-23C346?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
@@ -68,5 +70,12 @@ Here are some ideas to get you started:
 
 #### 🎨 ETC 🎨
 Figma adobe-PP Maya MS-office-Tools
+<div style="display:flex; flex-direction:row;">
+  <img src="https://img.shields.io/badge/Figma-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/AdobePP-A719BE?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Maya-0FE1D5?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/MS Office Tools-35B6FF?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+</div>
+
 - - -
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhuiseung&show_icons=true&theme=moltack)
