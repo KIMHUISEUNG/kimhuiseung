@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
 <link href="https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css" rel="stylesheet" type="text/css" />
 
-```css
-@import url('https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css');
-.tossface {
-  font-family: Tossface;
-}
-```
 
 
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-23C346?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
@@ -35,8 +29,11 @@ Here are some ideas to get you started:
 <p>때로는 Javascript의 숙련도를 높여 좀더 모던한 코드를 작성할 수 있도록 노력하는 중입니다.</p>
 <p>REST 아키텍처를 구현하는 웹 개발자가 되어 안정성 있는 코드를 작성하려합니다.</p>
 
+<p>동전 노래방에 가서 노래부르는 걸 좋아하고, 영화 와 드라마를 즐겨봅니다.🎶🍿</p>
+<p>즐거움을 만드는 개발자가 되고 싶습니다.✨</p>
+
 ### ☕️ Skills
-#### Platforms & Languages
+#### 🧩 Platforms & Languages **🧩**
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Javascript-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/React-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 
