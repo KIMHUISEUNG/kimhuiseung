@@ -21,5 +21,15 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
 <a href="https://funky-reaper-20b.notion.site/Career-c1841963d6684eb698e621dddcbaf9f4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-1d1d1d.svg?style=for-the-badge&logo=Notion&logoColor=FFF"/></a>
 <a href="mailto:mmorpg3636@naver.com" target="_blank"><img src="https://img.shields.io/badge/mmorpg3636@naver.com-238AC3?style=for-the-badge&logo=gmail&logoColor=FFF"/></a>
+<p>안녕하세요 저는 Web FE 개발자 입니다. React를 사용해 웹 개발하고 있습니다.</p>
+<p>때로는 Javascript의 숙련도를 높여 좀더 모던한 코드를 작성할 수 있도록 노력하는 중입니다.</p>
+<p>REST 아키텍처를 구현하는 웹 개발자가 되어 안정성 있는 코드를 작성하려합니다.</p>
+
+<h1>☕️ Skills</h1>
+<h3>Platforms & Languages</h3>
+
+
+<h3>Tools</h3>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhuiseung&show_icons=true&theme=moltack)
