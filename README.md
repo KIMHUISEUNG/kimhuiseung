@@ -33,27 +33,40 @@ Here are some ideas to get you started:
 ### Skills
 #### 🧩 Platforms & Languages 🧩
 #### 능숙함
-javascript react html css styled-componet redus linux
+<img src="https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/React-238AC3?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/Linux-FF2828?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/HTML-FF6D1B?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/CSS-0F6595?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/TypeScript-5FB3E2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
 
-#### 능숙하지 않음
-java python bootstrap andoid-studio ammazon aws
+#### 능숙하지 않음 <Once I've used/>
+<img src="https://img.shields.io/badge/Java-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/Python-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/Bootstrap-BE37D4?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/AndoidStudio-00D32F?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/AmmazonAWS-09082E?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/K8S-030093?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/Docker-0300dd?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/CentOS-FF1B1B?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/MySQL-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/Jenkins-9F7DFF?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/Node.js-009220?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
 
-<a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Javascript-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
-<a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/React-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
-<a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/React-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
-<a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/React-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 
 
 #### 🛠 Tools 🛠
 
-#### 🎨 Development Log 🎨
+#### ✏️ Development Log ✏️
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-23C346?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 <a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
 <a href="https://funky-reaper-20b.notion.site/Career-c1841963d6684eb698e621dddcbaf9f4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-1d1d1d.svg?style=for-the-badge&logo=Notion&logoColor=FFF"/></a>
-- - -
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=codinghatso&theme=default)](https://codinghatso.tistory.com/)
 #### ☕️ Contact ☕️
 <a href="mailto:mmorpg3636@naver.com" target="_blank"><img src="https://img.shields.io/badge/mmorpg3636@naver.com-238AC3?style=for-the-badge&logo=gmail&logoColor=FFF"/></a>
 <a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
 
+#### 🎨 ETC 🎨
+Figma adobe-PP Maya MS-office-Tools
+- - -
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhuiseung&show_icons=true&theme=moltack)
