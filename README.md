@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p>때로는 Javascript의 숙련도를 높여 좀더 모던한 코드를 작성할 수 있도록 노력하는 중입니다.</p>
 <p>REST 아키텍처를 구현하는 웹 개발자가 되어 안정성 있는 코드를 작성하려합니다.</p>
 <br>
-<p>동전 노래방에 가서 노래부르는 걸 좋아하고, 영화 와 드라마를 즐겨봅니다. 🎶🍿</p>
+<p>코인 노래방에 가서 노래부르는 걸 좋아하고, 영화 와 드라마를 즐겨봅니다. 🎶🍿</p>
 <p>즐거움을 만드는 개발자가 되고 싶습니다. ✨</p>
 
 ### Skills
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS-0F6595?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/TypeScript-5FB3E2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
 </div>
+
 #### 능숙하지 않음 <Once I've used/>
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Java-0087D2?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
@@ -71,7 +72,7 @@ Here are some ideas to get you started:
 #### 🎨 ETC 🎨
 Figma adobe-PP Maya MS-office-Tools
 <div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/Figma-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Figma-1d1d1d?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/AdobePP-A719BE?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Maya-0FE1D5?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/MS Office Tools-35B6FF?style=for-the-badge&logo=storyblok&logoColor=FFF"/>
