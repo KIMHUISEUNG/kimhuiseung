@@ -1,3 +1,6 @@
+<link rel="preconnect" href="https://cdn.jsdelivr.net" />
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+<link href="https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css" rel="stylesheet" type="text/css" />
 ### Hi there 👋
 
 <!--
@@ -27,9 +30,13 @@ Here are some ideas to get you started:
 
 <h1>☕️ Skills</h1>
 <h3>Platforms & Languages</h3>
+<a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Javascript-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
+<a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/React-d1d1d1?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 
 
-<h3>Tools</h3>
+<h3>🛠 Tools 🛠</h3>
+
+<h3>🎨 SNS & Portfolio 🎨</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhuiseung&show_icons=true&theme=moltack)
