@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/KIMHUISEUNG/kimhuiseung/assets/83748337/6f3a39f9-26ff-4564-a198-bc164fc11eaa" width="50" height="50"/>
 
 -bookmark 만들기 참고 https://github.com/loosie/github-readme-tistory-card
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=codinghatso&theme=default)](https://google.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={insert_blogName}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
+
 
 -->
 <p>안녕하세요 저는 Web FE 개발자 입니다. React를 사용해 웹 개발하고 있습니다.</p>
@@ -28,8 +29,6 @@ Here are some ideas to get you started:
 <br>
 <p>동전 노래방에 가서 노래부르는 걸 좋아하고, 영화 와 드라마를 즐겨봅니다. 🎶🍿</p>
 <p>즐거움을 만드는 개발자가 되고 싶습니다. ✨</p>
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=codinghatso&theme=default)](https://google.com)
 
 ### Skills
 #### 🧩 Platforms & Languages 🧩
@@ -51,6 +50,8 @@ java python bootstrap andoid-studio ammazon aws
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-23C346?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 <a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
 <a href="https://funky-reaper-20b.notion.site/Career-c1841963d6684eb698e621dddcbaf9f4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-1d1d1d.svg?style=for-the-badge&logo=Notion&logoColor=FFF"/></a>
+- - -
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=codinghatso&theme=default)](https://codinghatso.tistory.com/)
 #### ☕️ Contact ☕️
 <a href="mailto:mmorpg3636@naver.com" target="_blank"><img src="https://img.shields.io/badge/mmorpg3636@naver.com-238AC3?style=for-the-badge&logo=gmail&logoColor=FFF"/></a>
 <a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
