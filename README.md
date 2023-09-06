@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 <link rel="preconnect" href="https://cdn.jsdelivr.net" />
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
 <link href="https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css" rel="stylesheet" type="text/css" />
-<style>
   @import url('https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css');
 
   .tossface {
     font-family: Tossface;
   }
-</style>
+
 
 
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-23C346?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
