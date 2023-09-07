@@ -36,18 +36,19 @@ Here are some ideas to get you started:
 #### 능숙함
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=javascript&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/TypeScript-1E5DFF?style=for-the-badge&logo=typescript&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/React-238AC3?style=for-the-badge&logo=react&logoColor=FFF"/>
-  <img src="https://img.shields.io/badge/Linux-FF2828?style=for-the-badge&logo=linux&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/HTML-FF6D1B?style=for-the-badge&logo=html5&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/CSS-0F6595?style=for-the-badge&logo=css3&logoColor=FFF"/>
-  <img src="https://img.shields.io/badge/TypeScript-5FB3E2?style=for-the-badge&logo=typescript&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Linux-FF2828?style=for-the-badge&logo=linux&logoColor=FFF"/>
 </div>
 
 #### 능숙하지 않음 < Once I've used />
 <div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/Java-0087D2?style=for-the-badge&logo=kofi&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Java-004584?style=for-the-badge&logo=kofi&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Python-0087D2?style=for-the-badge&logo=python&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Bootstrap-BE37D4?style=for-the-badge&logo=bootstrap&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Node.js-009220?style=for-the-badge&logo=nodedotjs&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/AndroidStudio-00D32F?style=for-the-badge&logo=android&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/AmmazonAWS-09082E?style=for-the-badge&logo=amazonaws&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/K8S-030093?style=for-the-badge&logo=kubernetes&logoColor=FFF"/>
@@ -55,7 +56,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CentOS-FF1B1B?style=for-the-badge&logo=centos&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/MySQL-0087D2?style=for-the-badge&logo=mysql&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Jenkins-9F7DFF?style=for-the-badge&logo=jenkins&logoColor=FFF"/>
-  <img src="https://img.shields.io/badge/Node.js-009220?style=for-the-badge&logo=nodedotjs&logoColor=FFF"/>
 </div>
 
 #### 🛠 Tools 🛠
@@ -77,12 +77,10 @@ VSCode Git Chrome Figma
 <a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
 
 #### 🎨 ETC 🎨
-adobe-PP Maya MS-office-Tools
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/adobe premiere pro-A719BE?style=for-the-badge&logo=adobepremierepro&logoColor=FFF"/>
-  <img src="https://img.shields.io/badge/Maya-0FE1D5?style=for-the-badge&logo=materialdesign&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Maya-00B0A6?style=for-the-badge&logo=materialdesign&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/MS Office Tools-35B6FF?style=for-the-badge&logo=microsoftoffice&logoColor=FFF"/>
 </div>
-
 - - -
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhuiseung&show_icons=true&theme=moltack)
