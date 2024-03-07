@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 #### 능숙함
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=javascript&logoColor=FFF"/>
-  <img src="https://img.shields.io/badge/TypeScript-1E5DFF?style=for-the-badge&logo=typescript&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/React-238AC3?style=for-the-badge&logo=react&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/HTML-FF6D1B?style=for-the-badge&logo=html5&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/CSS-0F6595?style=for-the-badge&logo=css3&logoColor=FFF"/>
@@ -50,6 +49,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-0087D2?style=for-the-badge&logo=python&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Bootstrap-BE37D4?style=for-the-badge&logo=bootstrap&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Node.js-009220?style=for-the-badge&logo=nodedotjs&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Typescript-0F6595?style=for-the-badge&logo=typescript&logoColor=FFF"/>
+  
   <img src="https://img.shields.io/badge/AndroidStudio-00D32F?style=for-the-badge&logo=android&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/AmmazonAWS-09082E?style=for-the-badge&logo=amazonaws&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/K8S-030093?style=for-the-badge&logo=kubernetes&logoColor=FFF"/>
@@ -62,7 +64,6 @@ Here are some ideas to get you started:
 #### 🛠 Tools 🛠
 VSCode Git Chrome Figma
 <div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/Figma-1d1d1d?style=for-the-badge&logo=figma&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Git-FF7A00?style=for-the-badge&logo=git&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Chrome-0092E3?style=for-the-badge&logo=googlechrome&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/VSCode-1E5DFF?style=for-the-badge&logo=visualstudiocode&logoColor=FFF"/>
@@ -81,7 +82,7 @@ VSCode Git Chrome Figma
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/adobe premiere pro-A719BE?style=for-the-badge&logo=adobepremierepro&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Maya-00B0A6?style=for-the-badge&logo=materialdesign&logoColor=FFF"/>
-  <img src="https://img.shields.io/badge/MS Office Tools-35B6FF?style=for-the-badge&logo=microsoftoffice&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/MS Office Tools-313131?style=for-the-badge&logo=microsoftoffice&logoColor=FFF"/>
 </div>
 
 - - -
