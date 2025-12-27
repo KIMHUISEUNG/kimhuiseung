@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hatso%20GitHub&animation=fadeIn&fontSize=90)
 
-<p>안녕하세요 저는 Web FE 개발자 입니다. React를 사용해 웹 개발하고 있습니다.</p>
-<p>때로는 Javascript의 숙련도를 높여 좀더 모던한 코드를 작성할 수 있도록 노력하는 중입니다.</p>
-<p>REST 아키텍처를 구현하는 웹 개발자가 되어 안정성 있는 코드를 작성하려합니다.</p>
+<p>안녕하세요 FE 개발자 김희성입니다.</p>
+<p>Javascript의 숙련도를 높여 좀더 모던한 코드를 작성할 수 있도록 노력하는 중입니다.</p>
+<p>TypeScript를 주력으로 사용하기 위해서 공부하는 중이며 차근차근 성장 중입니다.</p>
+<p>RESTful 아키텍처 원칙을 따르면서 통신을 구현합니다.</p>
+<p>AI를 개발 직무에 어떻게 활용해야 할지 고민하고 탐구합니다. 최근 Codex를 사용해서 repo관리를 하고있습니다.</p>
 <br>
 <p>코인 노래방에 가서 노래부르는 걸 좋아하고, 영화 와 드라마를 즐겨봅니다. 🎶🍿</p>
 <p>즐거움을 만드는 개발자가 되고 싶습니다. ✨</p>
