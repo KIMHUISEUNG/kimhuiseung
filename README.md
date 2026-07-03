@@ -77,7 +77,8 @@ VSCode Git Chrome Figma
 <a href="https://codinghatso.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-23C346?style=for-the-badge&logo=storyblok&logoColor=FFF"/></a>
 <a href="https://www.instagram.com/coding_hatso/" target="_blank"><img src="https://img.shields.io/badge/Instagram-AD23C3?style=for-the-badge&logo=instagram&logoColor=FFF"/></a>
 <a href="https://funky-reaper-20b.notion.site/Career-c1841963d6684eb698e621dddcbaf9f4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-1d1d1d.svg?style=for-the-badge&logo=Notion&logoColor=FFF"/></a>  
-[![Tistory's Card](https://vercel.app)](https://codinghatso.tistory.com/)
+<!-- TISTORY-LIST:START -->
+<!-- TISTORY-LIST:END -->
 
 
 #### ☕️ Contact ☕️
