@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hatso%20GitHub&animation=fadeIn&fontSize=90)
 
-<p>안녕하세요 FE 개발자 김희성입니다.</p>
-<p>Javascript의 숙련도를 높여 좀더 모던한 코드를 작성할 수 있도록 노력하는 중입니다.</p>
-<p>TypeScript를 주력으로 사용하기 위해서 공부하는 중이며 차근차근 성장 중입니다.</p>
-<p>RESTful 아키텍처 원칙을 따르면서 통신을 구현합니다.</p>
-<p>AI를 개발 직무에 어떻게 활용해야 할지 고민하고 탐구합니다. 최근 Codex를 사용해서 repo관리를 하고있습니다.</p>
-<br>
-<p>코인 노래방에 가서 노래부르는 걸 좋아하고, 영화 와 드라마를 즐겨봅니다. 🎶🍿</p>
-<p>즐거움을 만드는 개발자가 되고 싶습니다. ✨</p>
+<p>안녕하십니까 Front End Developer 김희성입니다.</p>
+<p>항상 개발자의 역량에 대해 고민하고 있습니다. 주도적으로 AI를 활용하는 진짜 개발자인지 증명하기 위해 노력하겠습니다. 항상 "왜?" 라는 질문을 이어나가는 개발자가 되겠습니다.</p>
+<p>codex와 Figma를 주로 이용하고 있고 새로운 기술과 표준에 관심을 두고 블로그를 운영하는 등의 활동을 하고 있습니다.</p>
+<br/>
+<p>간단히 기술 숙련도를 짐작할 수 있는 코맨트를 작성해 보겠습니다.</p>
+<p>Javascript의 숙련도는 ES6+ 문법을 활용해 조금 더 모던한 코드를 작성할 수 있습니다.</p>
+<p>TypeScript의 숙련도는 props로 받아온 type 값에 따라 다른 동작을 하는 컴포넌트를 구현할 수 있고, 함수와 객체의 반환값 타입을 정의하여 코드를 작성할 수 있습니다.</p>
+<p>Next.js / React Router + Vite 프레임워크를 사용해서 SSR을 구현할 수 있습니다.</p>
 
 - - -
 ### Skills
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 #### 능숙함
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=javascript&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/Typescript-0F6595?style=for-the-badge&logo=typescript&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/React-238AC3?style=for-the-badge&logo=react&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/HTML-FF6D1B?style=for-the-badge&logo=html5&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/CSS-0F6595?style=for-the-badge&logo=css3&logoColor=FFF"/>
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Bootstrap-BE37D4?style=for-the-badge&logo=bootstrap&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Node.js-009220?style=for-the-badge&logo=nodedotjs&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=FFF"/>
-  <img src="https://img.shields.io/badge/Typescript-0F6595?style=for-the-badge&logo=typescript&logoColor=FFF"/>
+  
   
   <img src="https://img.shields.io/badge/AndroidStudio-00D32F?style=for-the-badge&logo=android&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/AmmazonAWS-09082E?style=for-the-badge&logo=amazonaws&logoColor=FFF"/>
