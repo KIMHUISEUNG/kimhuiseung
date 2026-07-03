@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <p>간단히 기술 숙련도를 짐작할 수 있는 코맨트를 작성해 보겠습니다.</p>
 <p>Javascript의 숙련도는 ES6+ 문법을 활용해 조금 더 모던한 코드를 작성할 수 있습니다.</p>
 <p>TypeScript의 숙련도는 props로 받아온 type 값에 따라 다른 동작을 하는 컴포넌트를 구현할 수 있고, 함수와 객체의 반환값 타입을 정의하여 코드를 작성할 수 있습니다.</p>
+<p>zustand 라이브러리를 활용해 action 객체를 만들어 전역상태관리가 가능합니다.</p>
 <p>Next.js / React Router + Vite 프레임워크를 사용해서 SSR을 구현할 수 있습니다.</p>
 
 - - -
